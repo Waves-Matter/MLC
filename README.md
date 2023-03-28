@@ -1,5 +1,5 @@
 # MLC
-Monte Carlo Localization 
+Monte Carlo Localization. This assignment was completed for the Artificial Intelligence course (2022), as a final project. The description of the assignment could be found above. 
 
 
 
